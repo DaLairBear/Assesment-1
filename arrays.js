@@ -11,7 +11,8 @@ console.log(colorCopy)
 /* Add a fourth color to the end of the 'colorCopy' array using the push method. */
 
 //CODE HERE
-
+colorCopy.push('orange')
+console.log(colorCopy)
 
 //////////////////PROBLEM 3////////////////////
 /*
