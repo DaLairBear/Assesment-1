@@ -24,7 +24,7 @@ let lovesCode = true
 */
 
 //CODE HERE
-if(faveNum = 14){
+if(faveNum === 14){
   console.log('lucy 13!')
 }else{
   console.log('not lucky 13')
@@ -36,3 +36,6 @@ if(faveNum = 14){
 */
 
 //CODE HERE
+for(let i = 0; i < 5; i++){
+  console.log(faveNum)
+}
