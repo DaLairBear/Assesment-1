@@ -24,6 +24,11 @@ let lovesCode = true
 */
 
 //CODE HERE
+if(faveNum = 14){
+  console.log('lucy 13!')
+}else{
+  console.log('not lucky 13')
+}
 
 //////////////////PROBLEM 5////////////////////
 /*
