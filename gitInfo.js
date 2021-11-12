@@ -11,7 +11,7 @@
 
 //CODE HERE
 let gitDefinition = "Git is a software for tracking changes in files to create a record of what has been done allowing you to revert to specific versions if needed."
-
+console.log(gitDefinition)
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -20,6 +20,7 @@ let gitDefinition = "Git is a software for tracking changes in files to create a
 
 //CODE HERE
 let gitHubDefinition = "GitHub is a hosting service for git change logs that allows teams to collaborate in real time."
+console.log(gitHubDefinition)
 
 //////////////////PROBLEMS 3 - 8////////////////////
 /*
@@ -36,7 +37,8 @@ let gitHubDefinition = "GitHub is a hosting service for git change logs that all
 */
 
 //CODE HERE
-
+let init = {description: "The 'git init' command creates the initialization of the git repository in the directory you are currently in.", code: "git init <directory>"}
+console.log(init)
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -45,7 +47,8 @@ let gitHubDefinition = "GitHub is a hosting service for git change logs that all
 */
 
 //CODE HERE
-
+let clone = {description: "The 'git clone' command clones your git repository to the local machine.", code: "git clone <repository>"}
+console.log(clone)
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -54,7 +57,8 @@ let gitHubDefinition = "GitHub is a hosting service for git change logs that all
 */
 
 //CODE HERE
-
+let status = {description: "The 'git status' command lists which files are staged, unstagged, and untracked.", code: "git status"}
+console.log(status)
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -63,7 +67,8 @@ let gitHubDefinition = "GitHub is a hosting service for git change logs that all
 */
 
 //CODE HERE
-
+let add = {description: "The 'git add <file or directory name here>' command stages the specificed file or directory for the next commit.", code: "git add <directory>"}
+console.log(add)
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -72,7 +77,8 @@ let gitHubDefinition = "GitHub is a hosting service for git change logs that all
 */
 
 //CODE HERE
-
+let commit = {description: `The 'git commit -m "<message>"' command commits the staged snapshot and uses the message as the comment with the commit.`, code: 'git commit -m "<message>"'}
+console.log(commit)
 
 //////////////////PROBLEM 8////////////////////
 /*
@@ -81,3 +87,5 @@ let gitHubDefinition = "GitHub is a hosting service for git change logs that all
 */
 
 //CODE HERE
+let push = {description: "The 'git push' command pushes the commits to a remote repositiory such as GitHub", code: "git push"}
+console.log(push)
