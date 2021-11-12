@@ -17,3 +17,10 @@
 /*
     Create a variable for each of the above steps of the Software Development Lifecycle and set the values of each variable to a definition of the step.
 */
+
+let P = "Planning"
+let A = "Analysis of Requirements"
+let D = "Design"
+let I = "Implementation"
+let T = "Testing & Integration"
+let M = "Maintain"
