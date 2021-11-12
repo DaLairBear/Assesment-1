@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+let gitDefinition = "Git is a software for tracking changes in files to create a record of what has been done allowing you to revert to specific versions if needed."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+let gitHubDefinition = "GitHub is a hosting service for git change logs that allows teams to collaborate in real time."
 
 //////////////////PROBLEMS 3 - 8////////////////////
 /*
@@ -35,6 +37,7 @@
 
 //CODE HERE
 
+
 //////////////////PROBLEM 4////////////////////
 /*
     Create an object called 'clone' with 'description' and 'code' properties 
@@ -42,6 +45,7 @@
 */
 
 //CODE HERE
+
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -51,6 +55,7 @@
 
 //CODE HERE
 
+
 //////////////////PROBLEM 6////////////////////
 /*
     Create an object called 'add' with 'description' and 'code' properties 
@@ -58,6 +63,7 @@
 */
 
 //CODE HERE
+
 
 //////////////////PROBLEM 7////////////////////
 /*
